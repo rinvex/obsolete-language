@@ -2,6 +2,8 @@
 
 **Rinvex Language** is a simple and lightweight package for retrieving language details with flexibility. A whole bunch of data including name, native, iso codes, language family, language script, language cultures, and other attributes for the 180+ known languages worldwide at your fingertips.
 
+⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/languages](https://github.com/rinvex/languages)** package instead. ⚠️
+
 [![Packagist](https://img.shields.io/packagist/v/rinvex/language.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/language)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/language.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/language/)
 [![Code Climate](https://img.shields.io/codeclimate/github/rinvex/language.svg?label=CodeClimate&style=flat-square)](https://codeclimate.com/github/rinvex/language)

@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
 
+## [v2.0.2] - 2018-09-29
+- Abandon the package in favor to rinvex/languages
+
 ## [v2.0.1] - 2018-09-22
 - Update travis php versions
 - Add Laravel Auto Discovery support and validation rule
@@ -36,6 +39,7 @@ This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 ## v1.0.0 - 2017-01-01
 - Tag first release
 
+[v2.0.2]: https://github.com/rinvex/language/compare/v2.0.1...v2.0.2
 [v2.0.1]: https://github.com/rinvex/language/compare/v2.0.0...v2.0.1
 [v2.0.0]: https://github.com/rinvex/language/compare/v1.1.0...v2.0.0
 [v1.1.0]: https://github.com/rinvex/language/compare/v1.0.0...v1.1.0
