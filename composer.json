@@ -73,6 +73,7 @@
             ]
         }
     },
+    "abandoned": "rinvex/languages",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
